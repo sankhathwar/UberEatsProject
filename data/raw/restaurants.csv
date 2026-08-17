@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,city,cuisine,restaurant_rating,avg_prep_time,price_range
+R00001,"Choudhury, Bakshi and Maharaj",Pune,Desserts,4.35,35,Low
+R00002,Kapoor and Sons,Bangalore,Healthy,4.08,36,Low
+R00003,"Chaudry, Chahal and Sami",Ahmedabad,Biryani,3.92,43,Medium
+R00004,Balan Inc,Jaipur,Fast Food,3.7,32,Low
+R00005,Kaul PLC,Jaipur,South Indian,3.41,25,High
+R00006,"Bala, Issac and Saini",Mumbai,North Indian,3.35,23,Low
+R00007,Sen PLC,Mumbai,Fast Food,3.25,59,Low
+R00008,Ahuja-Dutta,Kolkata,Mexican,4.32,50,Medium
+R00009,"Sami, Oak and Mall",Kolkata,Mexican,3.71,23,Medium
+R00010,Kale LLC,Pune,South Indian,4.2,54,Medium
+R00011,Chanda Group,Kolkata,Chinese,3.64,35,Medium
+R00012,Parmer LLC,Bangalore,Desserts,3.96,55,High
+R00013,"Lalla, Bassi and Sharaf",Jaipur,Fast Food,3.83,60,Medium
+R00014,"Dash, Radhakrishnan and Brar",Pune,Chinese,4.79,58,Medium
+R00015,"Memon, Pathak and Handa",Ahmedabad,Indian,3.76,36,Medium
+R00016,"Boase, Bath and Kari",Delhi,Healthy,4.42,49,Low
+R00017,Buch-Kaul,Kolkata,Mexican,3.3,13,High
+R00018,Rai LLC,Hyderabad,Mexican,4.68,18,Medium
+R00019,Patla-Gaba,Kochi,Chinese,4.41,36,High
+R00020,Pant-Kadakia,Bangalore,Biryani,3.71,52,Low
+R00021,"Loke, Bora and Garg",Kolkata,Italian,3.7,48,High
+R00022,"Konda, Gade and Shere",Delhi,Italian,4.6,24,Medium
+R00023,Madan-Kanda,Bangalore,Healthy,4.47,34,Medium
+R00024,"Nair, Bhalla and Karnik",Jaipur,Italian,3.88,27,Medium
+R00025,Mutti Group,Jaipur,Mexican,3.57,39,High
+R00026,Bhatti-Kakar,Pune,Biryani,4.54,46,Medium
+R00027,"Murty, Kala and Tata",Jaipur,Mexican,3.76,25,Medium
+R00028,Shanker-Dhar,Kolkata,Desserts,4.17,21,Medium
+R00029,Dewan-Koshy,Ahmedabad,Mexican,3.72,26,Low
+R00030,"Yohannan, Lall and Sangha",Chennai,North Indian,3.89,34,Low
+R00031,"Rastogi, Pathak and Kanda",Chennai,Healthy,4.95,24,Medium
+R00032,Upadhyay Group,Mumbai,Biryani,3.96,34,Low
+R00033,Batta Inc,Bangalore,Healthy,4.72,30,Medium
+R00034,Dutta Ltd,Ahmedabad,Desserts,3.24,28,Medium
+R00035,Bhatt-Rajan,Delhi,Desserts,3.13,33,Medium
+R00036,Sidhu-Wadhwa,Kolkata,Fast Food,4.29,16,Low
+R00037,Apte-Contractor,Chennai,South Indian,3.62,21,Medium
+R00038,"Yadav, Loke and Oak",Delhi,South Indian,3.99,58,Medium
+R00039,Memon Group,Jaipur,Chinese,2.94,48,Medium
+R00040,Setty Inc,Jaipur,North Indian,2.98,20,Medium
+R00041,"Lall, Tella and Gokhale",Chennai,Desserts,4.01,42,Low
+R00042,"Cherian, Misra and Tripathi",Chennai,Desserts,3.76,58,Medium
+R00043,"Issac, Dua and Prakash",Delhi,Chinese,3.83,34,Medium
+R00044,Zacharia PLC,Hyderabad,Desserts,4.83,48,Low
+R00045,Naik Group,Bangalore,North Indian,4.24,43,Medium
+R00046,Choudhury LLC,Bangalore,Biryani,5.0,20,High
+R00047,Khatri-Bhardwaj,Delhi,Biryani,4.04,25,Low
+R00048,Brar Inc,Hyderabad,South Indian,4.75,41,Medium
+R00049,"Sunder, Biswas and Walia",Jaipur,Fast Food,4.49,24,High
+R00050,Dave Ltd,Hyderabad,Chinese,3.75,49,High
+R00051,Gandhi-Lanka,Hyderabad,Italian,3.91,24,Low
+R00052,"Sampath, Kakar and Zacharia",Hyderabad,Healthy,3.82,16,Medium
+R00053,"Iyer, Muni and Rastogi",Bangalore,North Indian,4.54,46,High
+R00054,"Prakash, Sarma and Varughese",Hyderabad,Italian,4.14,49,Low
+R00055,Dara-Kota,Delhi,Indian,3.54,11,Medium
+R00056,Bhatt LLC,Ahmedabad,South Indian,3.36,15,Medium
+R00057,Karpe PLC,Kolkata,North Indian,3.37,45,Medium
+R00058,Amble Inc,Mumbai,Desserts,3.55,48,Low
+R00059,"Bhargava, Karnik and Bir",Mumbai,Indian,3.53,47,High
+R00060,Narayanan Inc,Mumbai,Desserts,3.4,37,Low
+R00061,"Khanna, Mallick and Sunder",Ahmedabad,Healthy,4.56,31,Medium
+R00062,Zacharia and Sons,Ahmedabad,North Indian,3.23,46,Medium
+R00063,"Solanki, Kibe and Solanki",Chennai,Fast Food,4.2,14,Low
+R00064,Gupta-Chandra,Kolkata,Italian,5.0,27,Low
+R00065,Sankar LLC,Delhi,Biryani,4.04,20,High
+R00066,Roy-Sibal,Chennai,Italian,4.05,17,Medium
+R00067,"Bhagat, Chaudhari and Bhat",Hyderabad,North Indian,4.11,29,Medium
+R00068,Nori-Chopra,Kolkata,Chinese,3.26,20,Medium
+R00069,Handa and Sons,Pune,South Indian,4.22,36,Low
+R00070,"Sen, Dey and Sami",Pune,Healthy,4.17,38,Medium
+R00071,Mallick Group,Kolkata,Chinese,3.98,34,Low
+R00072,Borra Group,Pune,Desserts,3.16,60,Medium
+R00073,"Chaudhari, Bedi and Zachariah",Chennai,South Indian,4.95,28,Low
+R00074,Chander and Sons,Ahmedabad,Biryani,4.12,11,Medium
+R00075,Ray Group,Kolkata,South Indian,3.39,51,Medium
+R00076,Kala-Rattan,Pune,South Indian,3.5,48,Medium
+R00077,Gala Group,Delhi,South Indian,3.61,53,Medium
+R00078,Ramakrishnan LLC,Pune,Healthy,4.79,11,Low
+R00079,Mangal-Sampath,Hyderabad,South Indian,3.94,16,High
+R00080,"Sur, Dubey and Gupta",Chennai,Desserts,3.94,60,Low
+R00081,Kalla-Bhardwaj,Jaipur,North Indian,3.74,40,Medium
+R00082,"Bhat, Murthy and Bhandari",Bangalore,Indian,4.51,42,Low
+R00083,Sood PLC,Chennai,Healthy,4.54,20,High
+R00084,"Dugar, Bhandari and Trivedi",Kochi,Desserts,3.24,49,Medium
+R00085,Grewal Inc,Kochi,South Indian,3.95,49,Low
+R00086,"Bir, Keer and Raval",Bangalore,Healthy,3.89,55,Medium
+R00087,Koshy PLC,Ahmedabad,Fast Food,3.52,22,High
+R00088,"Baral, Bumb and Saini",Mumbai,Italian,3.71,19,Medium
+R00089,"Virk, Mutti and Lal",Pune,Italian,3.85,58,Medium
+R00090,Murthy and Sons,Delhi,Desserts,3.5,47,Low
+R00091,Randhawa-Deep,Ahmedabad,Desserts,4.15,29,Low
+R00092,"Mital, Shankar and Mutti",Kochi,Biryani,4.14,30,Low
+R00093,Andra Group,Kolkata,Biryani,4.26,23,Medium
+R00094,"Chaudhry, Borah and Yogi",Bangalore,Italian,3.77,33,Medium
+R00095,Toor LLC,Ahmedabad,North Indian,2.93,49,High
+R00096,Palla Inc,Mumbai,North Indian,3.64,16,Medium
+R00097,Pingle LLC,Kolkata,Italian,3.47,14,Low
+R00098,Sarma PLC,Hyderabad,Fast Food,3.92,15,Medium
+R00099,"Mittal, Wadhwa and Anand",Chennai,South Indian,4.29,49,Medium
+R00100,"Mistry, Chawla and Desai",Bangalore,Italian,4.94,44,Medium
+R00101,D’Alia-Chhabra,Kochi,South Indian,3.55,18,Medium
+R00102,"Dugal, Magar and Manda",Delhi,Indian,4.06,51,Low
+R00103,"Kade, Oza and Jani",Hyderabad,South Indian,4.09,10,Low
+R00104,"Lalla, Tiwari and Suresh",Hyderabad,North Indian,4.72,48,Medium
+R00105,Behl-Chanda,Ahmedabad,Mexican,4.11,29,Low
+R00106,"Sampath, Malhotra and Basu",Bangalore,Mexican,3.82,15,Medium
+R00107,Nath and Sons,Chennai,Italian,3.98,41,Medium
+R00108,"Lala, Edwin and Sathe",Bangalore,Biryani,4.17,22,High
+R00109,"Sane, Andra and Choudhury",Kolkata,Indian,4.37,48,High
+R00110,Dixit PLC,Mumbai,South Indian,4.85,49,High
+R00111,Pingle PLC,Hyderabad,Chinese,4.8,30,High
+R00112,"Divan, Sani and Datta",Hyderabad,Mexican,3.62,46,High
+R00113,Morar LLC,Kochi,South Indian,3.25,21,Medium
+R00114,Parmar and Sons,Hyderabad,South Indian,3.38,15,High
+R00115,"Krish, Chauhan and Pandya",Chennai,Healthy,4.12,24,Medium
+R00116,"Ray, Dubey and Khalsa",Delhi,North Indian,4.56,30,Medium
+R00117,Goel Group,Bangalore,Indian,3.88,30,Low
+R00118,Gola Ltd,Delhi,South Indian,3.52,37,Medium
+R00119,Sabharwal-Kothari,Kochi,Desserts,3.27,45,High
+R00120,Dutta-Chokshi,Ahmedabad,Fast Food,4.79,26,Medium
+R00121,Barad-Singhal,Kolkata,Fast Food,3.76,55,Low
+R00122,Iyengar Group,Hyderabad,South Indian,3.23,16,Medium
+R00123,Mody-Kari,Jaipur,Mexican,3.99,32,Medium
+R00124,Bajwa Ltd,Kochi,Indian,4.0,54,Medium
+R00125,Rastogi LLC,Kolkata,Biryani,4.44,31,Medium
+R00126,Boase-Mallick,Bangalore,Biryani,3.4,19,Low
+R00127,Upadhyay-Ratta,Pune,North Indian,4.58,27,High
+R00128,"Yadav, Narula and Bala",Mumbai,Indian,4.66,11,Medium
+R00129,Lal and Sons,Pune,South Indian,4.05,21,Low
+R00130,"Lanka, Barad and Chopra",Hyderabad,North Indian,4.3,54,Medium
+R00131,"Saraf, Pai and Murthy",Delhi,Indian,4.41,48,Low
+R00132,Vaidya-D’Alia,Hyderabad,Italian,3.7,59,Low
+R00133,Gupta-Kumar,Kolkata,Healthy,3.31,31,High
+R00134,Sarin Inc,Delhi,Desserts,3.71,52,High
+R00135,"Yohannan, Hegde and Patla",Mumbai,Fast Food,3.12,31,Medium
+R00136,Boase-Narayanan,Kochi,Healthy,4.24,51,Low
+R00137,"Murthy, Dash and Mital",Kolkata,South Indian,4.8,31,Low
+R00138,"More, Rege and Narain",Kolkata,Fast Food,3.57,15,High
+R00139,Merchant-Datta,Kochi,Chinese,3.77,55,High
+R00140,Salvi Ltd,Jaipur,North Indian,3.87,46,Medium
+R00141,Ghosh-Mitra,Hyderabad,Chinese,5.0,29,Low
+R00142,Acharya-Modi,Kochi,Italian,3.77,15,Low
+R00143,Kade-Sani,Ahmedabad,Chinese,4.56,18,High
+R00144,"Nagy, Shroff and Sathe",Kolkata,Biryani,4.02,38,Low
+R00145,Kala-Vaidya,Jaipur,Healthy,2.42,46,Medium
+R00146,Gara-Chad,Chennai,Biryani,3.75,14,Medium
+R00147,Varma-Nayak,Pune,South Indian,4.44,60,Low
+R00148,Keer Ltd,Delhi,South Indian,3.75,22,Low
+R00149,Kar-Issac,Hyderabad,North Indian,4.26,36,Medium
+R00150,Bakshi Inc,Kolkata,Fast Food,4.87,32,Medium
+R00151,Soman PLC,Delhi,Mexican,4.26,46,Medium
+R00152,Shah Group,Pune,Desserts,3.68,55,Medium
+R00153,"Hayer, Rajagopalan and Talwar",Mumbai,Italian,4.36,43,Low
+R00154,Kohli-Divan,Kolkata,Biryani,4.24,34,Medium
+R00155,"Ahluwalia, Chhabra and Sandal",Kolkata,Italian,4.49,46,Low
+R00156,Goda Ltd,Delhi,Chinese,3.95,32,Low
+R00157,"Shetty, Bedi and Krish",Kolkata,Biryani,3.6,37,Medium
+R00158,Shan and Sons,Kolkata,Desserts,4.27,35,High
+R00159,Wali-Nadig,Kochi,South Indian,4.28,21,Medium
+R00160,Thaman-Sandhu,Ahmedabad,Mexican,3.73,48,Medium
+R00161,"Sehgal, Dutt and Soman",Bangalore,North Indian,3.23,12,Medium
+R00162,Lad-Kota,Mumbai,Healthy,3.77,18,High
+R00163,"Malhotra, Verma and Sundaram",Bangalore,Biryani,3.41,56,Medium
+R00164,"Khare, Maharaj and Sarraf",Hyderabad,North Indian,3.87,24,Medium
+R00165,Mangal and Sons,Ahmedabad,Chinese,4.39,17,Medium
+R00166,Nayak-Nagarajan,Kolkata,Chinese,3.0,37,Low
+R00167,"Buch, Devi and Dora",Hyderabad,Desserts,4.16,35,Medium
+R00168,Rajagopal Ltd,Mumbai,Mexican,4.21,25,High
+R00169,Kala Inc,Chennai,Indian,3.54,43,Medium
+R00170,Reddy-Narayanan,Chennai,Desserts,4.17,29,Low
+R00171,"Shukla, Sagar and Bhatia",Delhi,Indian,4.58,10,Medium
+R00172,Salvi Group,Chennai,Chinese,4.22,33,Medium
+R00173,"Bahri, Rai and Sood",Kolkata,Desserts,5.0,38,High
+R00174,Pandey LLC,Bangalore,Italian,4.04,13,Low
+R00175,Saini-Yohannan,Jaipur,Indian,4.5,13,Medium
+R00176,"Kannan, Sura and Kanda",Kochi,Italian,5.0,47,Medium
+R00177,Sarin-Sunder,Bangalore,Desserts,4.25,12,High
+R00178,Ramachandran LLC,Bangalore,Chinese,4.88,49,Medium
+R00179,"Ravel, Gandhi and Sibal",Jaipur,Biryani,4.23,11,High
+R00180,Walla Inc,Kolkata,Indian,4.73,38,Low
+R00181,Bala-Chacko,Kochi,Healthy,3.44,58,Low
+R00182,"Sangha, Deshmukh and Shenoy",Mumbai,Indian,4.03,37,Low
+R00183,Bedi LLC,Hyderabad,North Indian,5.0,21,Medium
+R00184,Narang-Kakar,Delhi,Healthy,3.09,53,Medium
+R00185,Narain-Nazareth,Chennai,Healthy,3.61,24,Low
+R00186,Mall-Sama,Pune,Italian,5.0,59,Medium
+R00187,Bumb-Singhal,Pune,Indian,3.95,50,Medium
+R00188,Zacharia Inc,Bangalore,Indian,3.95,40,Medium
+R00189,Kapur-Biswas,Kochi,Biryani,4.46,46,Low
+R00190,"Baria, Balasubramanian and Kota",Jaipur,Italian,4.63,41,High
+R00191,Bahri PLC,Bangalore,Mexican,3.82,31,Medium
+R00192,Khare and Sons,Pune,South Indian,3.18,12,Low
+R00193,Contractor-Kamdar,Kolkata,Chinese,3.54,26,Medium
+R00194,Kunda-Pillay,Ahmedabad,North Indian,3.72,38,Low
+R00195,Contractor and Sons,Chennai,Biryani,3.41,21,Medium
+R00196,Chokshi-Bal,Ahmedabad,Fast Food,3.57,23,Low
+R00197,Prashad-Ranganathan,Kochi,Mexican,4.0,17,High
+R00198,"Issac, Borra and Kibe",Chennai,Fast Food,3.58,50,High
+R00199,Mitra Ltd,Chennai,Mexican,4.88,11,Low
+R00200,"Dara, Barman and Palan",Jaipur,Biryani,3.8,43,Low
+R00201,"Sangha, Prabhakar and Biswas",Kolkata,Italian,3.24,33,Low
+R00202,"Om, Arora and Salvi",Ahmedabad,Mexican,4.59,57,Medium
+R00203,Cherian-Sant,Bangalore,Desserts,5.0,29,Low
+R00204,Sharaf-Dua,Kochi,Biryani,3.83,52,Medium
+R00205,Goda-Vig,Pune,Mexican,4.13,19,Medium
+R00206,"Madan, Yohannan and Sule",Bangalore,Mexican,4.65,49,Medium
+R00207,Sarin-Loyal,Delhi,North Indian,3.81,16,Medium
+R00208,Korpal-Chadha,Chennai,Chinese,4.94,10,High
+R00209,Seshadri-Kohli,Jaipur,Mexican,3.2,19,Low
+R00210,Raghavan-Nayar,Hyderabad,Italian,3.94,60,Medium
+R00211,Talwar LLC,Kochi,North Indian,3.59,14,Medium
+R00212,Sura and Sons,Kolkata,Mexican,3.43,49,Medium
+R00213,Kuruvilla-Oak,Chennai,Fast Food,3.61,30,Medium
+R00214,Majumdar-Anne,Kochi,Biryani,4.26,18,Low
+R00215,"Halder, Chada and Khurana",Mumbai,Desserts,4.46,38,Medium
+R00216,"Ray, Suresh and Khosla",Kochi,Desserts,4.35,40,Medium
+R00217,"Soni, Swaminathan and Sem",Hyderabad,Italian,3.26,54,Low
+R00218,Chander LLC,Bangalore,Desserts,4.28,55,Medium
+R00219,Ravel Ltd,Kochi,Mexican,3.94,36,Low
+R00220,Mohan Ltd,Pune,Desserts,3.71,15,Medium
+R00221,"Pillay, Solanki and Wali",Delhi,Chinese,3.89,52,Medium
+R00222,Sandal-Narayanan,Pune,Biryani,4.83,40,Medium
+R00223,Setty-Madan,Bangalore,South Indian,3.86,50,Low
+R00224,Krishnamurthy-Kashyap,Ahmedabad,Italian,4.38,54,Low
+R00225,Hans LLC,Mumbai,Chinese,4.52,45,Medium
+R00226,Wason Ltd,Kolkata,Indian,4.44,11,Low
+R00227,Handa and Sons,Ahmedabad,North Indian,3.77,30,Low
+R00228,"Sule, Malhotra and Vohra",Hyderabad,Mexican,3.8,43,Medium
+R00229,"Mandal, Chaudhry and Hari",Mumbai,Fast Food,4.14,31,Low
+R00230,Karan-Patel,Jaipur,Fast Food,3.72,22,Medium
+R00231,Mittal Inc,Jaipur,Fast Food,3.57,28,Low
+R00232,"Walla, Date and Mahal",Kolkata,Chinese,4.05,42,Medium
+R00233,Bhagat PLC,Hyderabad,Biryani,3.6,47,Low
+R00234,Date-Swaminathan,Mumbai,Fast Food,3.78,49,Medium
+R00235,Arora PLC,Kolkata,Healthy,3.86,58,Medium
+R00236,Singh-Srinivas,Pune,Chinese,3.72,12,Medium
+R00237,Oak-Gour,Pune,Chinese,3.87,47,Medium
+R00238,Krishnan Group,Mumbai,Indian,3.78,28,Low
+R00239,Bhattacharyya Group,Kochi,South Indian,5.0,16,Low
+R00240,Borah-Bera,Ahmedabad,Biryani,4.88,24,High
+R00241,Dixit PLC,Jaipur,Indian,3.79,47,Medium
+R00242,Chada-Kothari,Kochi,Fast Food,3.77,34,Medium
+R00243,Saha PLC,Kolkata,Fast Food,3.89,31,High
+R00244,"Kara, Virk and Rai",Ahmedabad,Biryani,4.12,32,Low
+R00245,Savant-Mishra,Kochi,Italian,3.95,59,Medium
+R00246,"Sanghvi, Mody and Bhasin",Chennai,Fast Food,4.01,19,Low
+R00247,"Chaudhary, Johal and Kakar",Mumbai,Italian,4.4,45,Low
+R00248,Bumb-Dugar,Hyderabad,Mexican,3.57,46,Low
+R00249,Ghose PLC,Pune,North Indian,3.7,59,Medium
+R00250,Dugar Inc,Chennai,North Indian,3.28,51,Medium
+R00251,Seshadri-Singhal,Kolkata,Mexican,3.8,51,Low
+R00252,Bali-Kata,Ahmedabad,Desserts,4.02,51,Low
+R00253,Mandal-Setty,Mumbai,South Indian,4.02,16,Low
+R00254,Kaur LLC,Ahmedabad,Fast Food,4.63,55,High
+R00255,"Hora, Sandal and Contractor",Ahmedabad,North Indian,3.56,34,Medium
+R00256,"Kar, Dixit and Lata",Hyderabad,Mexican,3.18,49,High
+R00257,Bora Inc,Bangalore,Chinese,4.05,50,Medium
+R00258,Mohanty PLC,Hyderabad,Chinese,3.91,33,Medium
+R00259,"Mani, Sarna and Dash",Kochi,Fast Food,4.43,14,Low
+R00260,Modi-Rau,Bangalore,Fast Food,4.04,30,Low
+R00261,Tella-Zacharia,Chennai,Indian,4.64,49,Medium
+R00262,Sarma-Buch,Ahmedabad,Indian,3.93,29,Medium
+R00263,"Baral, Sankaran and Naidu",Mumbai,Mexican,3.74,38,Medium
+R00264,"Krishna, Bal and Chand",Jaipur,Indian,4.35,46,Low
+R00265,Bail Ltd,Kolkata,Healthy,4.24,29,High
+R00266,Baria-Gill,Hyderabad,Indian,3.64,27,Low
+R00267,Venkataraman-Sathe,Bangalore,Healthy,4.27,13,Low
+R00268,Golla-Sarin,Bangalore,Biryani,4.22,20,Medium
+R00269,"Swamy, Chand and Singhal",Bangalore,Indian,3.97,31,Low
+R00270,Rege-Nath,Kochi,Healthy,4.56,52,Low
+R00271,Cheema-Dyal,Hyderabad,South Indian,4.73,23,Low
+R00272,Sabharwal-Tandon,Delhi,Mexican,3.71,54,Low
+R00273,Rattan-Bansal,Ahmedabad,Healthy,4.24,37,Low
+R00274,Chakrabarti-Murty,Ahmedabad,Biryani,4.04,13,Low
+R00275,Naik-D’Alia,Chennai,Desserts,3.78,25,Medium
+R00276,Varkey-Agarwal,Jaipur,Chinese,3.94,47,Medium
+R00277,"Shere, Sachdev and Bhagat",Jaipur,Italian,3.12,32,Medium
+R00278,Vasa LLC,Kolkata,Italian,4.54,22,Medium
+R00279,"Tara, Sathe and Behl",Kochi,Desserts,4.39,29,Low
+R00280,Loke PLC,Delhi,Italian,3.04,14,Low
+R00281,Mani Group,Delhi,Healthy,3.91,28,High
+R00282,"Sundaram, Dara and Balakrishnan",Ahmedabad,Biryani,4.17,30,Medium
+R00283,"Khatri, Dutt and Mukhopadhyay",Ahmedabad,South Indian,4.43,51,Low
+R00284,"Atwal, Reddy and Chander",Delhi,South Indian,3.87,14,High
+R00285,Comar Group,Pune,South Indian,3.88,23,Medium
+R00286,Dube Group,Pune,Indian,4.18,45,Low
+R00287,"Manne, Upadhyay and Mahajan",Pune,South Indian,3.66,15,High
+R00288,Subramanian-Sodhi,Delhi,Indian,4.83,14,Medium
+R00289,Shan PLC,Jaipur,South Indian,4.05,33,High
+R00290,Rajagopal and Sons,Bangalore,Healthy,4.1,38,Low
+R00291,"Trivedi, Deshpande and Boase",Kochi,South Indian,4.67,38,Low
+R00292,Sachdeva-Oak,Hyderabad,Italian,3.99,11,Medium
+R00293,"Loke, Agate and Mandal",Kolkata,Italian,4.68,15,Low
+R00294,"Misra, Suri and Dixit",Jaipur,South Indian,3.2,43,Low
+R00295,Yohannan-Sule,Chennai,Chinese,4.58,21,Medium
+R00296,Natarajan-Purohit,Mumbai,Biryani,4.52,31,Low
+R00297,Nagy-Gulati,Ahmedabad,Healthy,2.97,13,High
+R00298,"Khare, Rajagopal and Kaur",Delhi,Italian,3.84,54,Medium
+R00299,Bassi-Nadkarni,Ahmedabad,Biryani,4.2,58,High
+R00300,"Solanki, Raj and Raju",Chennai,Italian,4.41,15,Medium
+R00301,"Doshi, Tandon and Bansal",Ahmedabad,Chinese,4.66,12,Medium
+R00302,Thakkar PLC,Pune,Mexican,3.25,22,Low
+R00303,Chaudhry-Sarraf,Delhi,Biryani,4.04,32,Medium
+R00304,Vora Group,Chennai,South Indian,3.53,44,Low
+R00305,Dhawan Group,Kolkata,Chinese,3.65,35,Low
+R00306,"Dubey, Borde and Singh",Bangalore,Italian,4.4,18,Low
+R00307,Nigam-Rao,Pune,Italian,3.6,32,Low
+R00308,"Buch, Narasimhan and Walla",Hyderabad,South Indian,4.0,13,Low
+R00309,Nadig-Sura,Pune,Indian,3.78,43,Medium
+R00310,"Banik, Biswas and Keer",Bangalore,North Indian,4.5,46,Low
+R00311,"Mani, Karan and Chana",Bangalore,Fast Food,3.08,17,Low
+R00312,Chaudhari-Chaudhry,Chennai,North Indian,4.62,43,High
+R00313,Ganesan-Mistry,Kochi,Mexican,4.74,46,Medium
+R00314,Batra LLC,Kolkata,North Indian,4.3,15,High
+R00315,Memon LLC,Mumbai,Indian,4.11,16,High
+R00316,Sankar-Dhingra,Mumbai,Fast Food,2.98,54,Low
+R00317,Wali Group,Mumbai,Healthy,4.32,50,High
+R00318,"Gole, Garde and Gill",Delhi,Healthy,4.5,48,Low
+R00319,Raja PLC,Chennai,Italian,4.05,45,High
+R00320,"Khosla, Tank and Dhar",Kolkata,Desserts,3.67,14,Medium
+R00321,Shenoy Ltd,Hyderabad,Indian,4.73,12,Medium
+R00322,Sharaf-Kumer,Hyderabad,South Indian,3.57,26,Medium
+R00323,"Andra, Shroff and Mani",Chennai,Indian,4.56,28,High
+R00324,"Dugar, Borah and Sathe",Pune,Fast Food,4.26,54,Medium
+R00325,Mistry-Samra,Mumbai,Italian,3.91,10,Medium
+R00326,"Krishna, Shan and Mittal",Mumbai,Mexican,5.0,46,Low
+R00327,Rajagopalan Group,Ahmedabad,South Indian,4.24,18,Medium
+R00328,Khalsa Group,Chennai,Mexican,4.29,13,Low
+R00329,"Parmer, Merchant and Merchant",Kolkata,Fast Food,4.26,51,Medium
+R00330,Randhawa LLC,Chennai,Desserts,4.15,55,Medium
+R00331,Bawa PLC,Pune,Biryani,3.95,19,Medium
+R00332,"Taneja, Mangat and Karpe",Delhi,Indian,4.38,41,Medium
+R00333,"Pandey, Kanda and Gupta",Ahmedabad,Fast Food,4.05,10,Medium
+R00334,"Krishna, Devan and Chatterjee",Pune,Chinese,3.09,32,High
+R00335,"Baral, More and Sastry",Kolkata,South Indian,3.59,60,Low
+R00336,Patla Ltd,Pune,South Indian,4.58,26,High
+R00337,Chana LLC,Ahmedabad,North Indian,4.44,39,High
+R00338,Sagar-Gill,Chennai,Desserts,3.48,36,Medium
+R00339,Deo PLC,Kolkata,Indian,3.73,24,High
+R00340,Wali-Thaker,Delhi,Healthy,3.69,47,Medium
+R00341,Gala-Kurian,Jaipur,Fast Food,4.73,16,Low
+R00342,Merchant-Nigam,Jaipur,Biryani,3.23,42,Medium
+R00343,Sidhu Inc,Ahmedabad,South Indian,3.69,14,Medium
+R00344,Kara Ltd,Ahmedabad,Fast Food,4.04,48,High
+R00345,"Ranganathan, Pau and Chana",Mumbai,Fast Food,3.28,43,Medium
+R00346,Atwal-Lalla,Ahmedabad,North Indian,4.04,12,Medium
+R00347,"Dasgupta, Sha and Pillay",Chennai,North Indian,3.48,41,Medium
+R00348,"Lala, Raj and Prabhu",Delhi,Indian,3.58,11,Low
+R00349,Kaur Group,Mumbai,Fast Food,3.74,25,Low
+R00350,Narang PLC,Delhi,Italian,3.91,26,Medium
+R00351,Bhatnagar Ltd,Delhi,Biryani,3.72,21,Low
+R00352,Mittal-Rege,Delhi,Mexican,4.05,14,Low
+R00353,Dey Inc,Kolkata,Healthy,4.62,13,Medium
+R00354,Modi Group,Bangalore,Italian,4.43,25,Medium
+R00355,Chatterjee and Sons,Chennai,Healthy,4.76,27,Medium
+R00356,"Deshmukh, Rama and Setty",Kolkata,Biryani,3.96,54,High
+R00357,Zachariah-Saini,Bangalore,Italian,3.96,29,Low
+R00358,"Dubey, Sachdeva and Chaudhary",Jaipur,Desserts,4.1,18,Low
+R00359,Reddy-Mammen,Hyderabad,Desserts,3.23,25,Medium
+R00360,Prabhakar and Sons,Pune,South Indian,4.52,44,Medium
+R00361,Saxena-Keer,Mumbai,Italian,3.81,38,Medium
+R00362,Chaudhary-Pillai,Hyderabad,Biryani,3.98,58,Low
+R00363,"Parmer, Bhat and Rao",Ahmedabad,Fast Food,4.21,39,Medium
+R00364,Gupta-Das,Chennai,Desserts,3.61,29,Medium
+R00365,Chand-Kala,Hyderabad,Italian,3.63,51,Low
+R00366,"Bail, Bedi and Nath",Ahmedabad,Biryani,4.2,31,Low
+R00367,Dass PLC,Hyderabad,Chinese,4.22,32,Medium
+R00368,Biswas PLC,Ahmedabad,Chinese,5.0,45,Low
+R00369,Kalita and Sons,Kolkata,Chinese,4.12,31,Medium
+R00370,Divan-Agate,Chennai,South Indian,4.27,10,Low
+R00371,Dhillon-De,Bangalore,Italian,5.0,30,Low
+R00372,"Krishna, Ghosh and Choudhary",Bangalore,Healthy,4.17,57,Medium
+R00373,"Bal, Deep and Aurora",Chennai,Biryani,4.22,52,Low
+R00374,Khanna-Naik,Kolkata,Fast Food,2.54,28,Low
+R00375,Ghosh LLC,Jaipur,Biryani,3.81,17,Medium
+R00376,Date Ltd,Kolkata,Chinese,4.1,14,Low
+R00377,Vora-Comar,Hyderabad,South Indian,3.62,49,Medium
+R00378,"Bhatt, Soni and Sen",Ahmedabad,Chinese,4.11,38,Medium
+R00379,Varghese-Chopra,Ahmedabad,Fast Food,4.36,27,Low
+R00380,Thakur-Kant,Jaipur,Chinese,4.46,38,Low
+R00381,"Bassi, Verma and Mitra",Jaipur,North Indian,3.95,24,Medium
+R00382,Balasubramanian-Bhat,Jaipur,Mexican,3.22,59,Low
+R00383,Ratti-Sandhu,Mumbai,Mexican,4.04,54,Medium
+R00384,"Chokshi, Swaminathan and Sawhney",Kochi,Fast Food,3.79,40,Medium
+R00385,Buch LLC,Mumbai,Mexican,3.62,24,Low
+R00386,"Divan, Bhatti and Date",Chennai,Fast Food,3.86,54,Medium
+R00387,Nair-Raj,Ahmedabad,Desserts,3.83,12,High
+R00388,"Wali, Menon and Setty",Chennai,Fast Food,3.89,53,Low
+R00389,"Sani, Chaudhary and Contractor",Hyderabad,Mexican,3.77,53,Low
+R00390,"Kale, Sani and Seth",Jaipur,Biryani,4.72,51,Medium
+R00391,Sachdev LLC,Chennai,South Indian,4.13,42,High
+R00392,Rastogi-Sagar,Bangalore,Desserts,4.14,33,Low
+R00393,"Chandran, Munshi and Sane",Delhi,Biryani,4.21,47,Low
+R00394,Kumer-Prasad,Kolkata,Chinese,3.31,60,Low
+R00395,Som Inc,Mumbai,North Indian,4.51,33,Medium
+R00396,Chada Inc,Mumbai,South Indian,5.0,22,Low
+R00397,Char-Pradhan,Hyderabad,Italian,3.52,36,Medium
+R00398,Bhasin PLC,Pune,Fast Food,3.66,42,Medium
+R00399,"Narayan, Das and Roy",Ahmedabad,Italian,3.73,28,High
+R00400,Sampath-Behl,Chennai,Healthy,4.15,34,Medium
+R00401,Muni-Pandey,Pune,Mexican,3.93,15,Medium
+R00402,Tripathi and Sons,Ahmedabad,Desserts,3.74,42,Low
+R00403,Subramaniam and Sons,Bangalore,Mexican,4.29,34,Low
+R00404,Palla PLC,Mumbai,Chinese,4.19,32,Medium
+R00405,Contractor-Mallick,Bangalore,Desserts,4.61,58,Medium
+R00406,"Kara, Sanghvi and Bal",Mumbai,Healthy,4.07,26,Medium
+R00407,"Loke, Balakrishnan and Gole",Jaipur,Fast Food,3.98,30,Low
+R00408,More-Nori,Pune,Mexican,3.78,52,Medium
+R00409,Ahuja-Golla,Pune,South Indian,4.12,29,Low
+R00410,Rattan Inc,Delhi,South Indian,3.48,21,Medium
+R00411,Balasubramanian Inc,Hyderabad,Chinese,4.54,22,Low
+R00412,"Wali, Kale and Puri",Chennai,Desserts,4.31,27,High
+R00413,Setty-Om,Jaipur,South Indian,4.11,31,Low
+R00414,Pingle LLC,Jaipur,Biryani,3.8,33,High
+R00415,"Nair, Chad and Ben",Kolkata,Chinese,4.82,42,High
+R00416,Dugar PLC,Chennai,Healthy,3.73,12,Medium
+R00417,Bumb LLC,Mumbai,Indian,3.57,26,High
+R00418,Samra-Sunder,Ahmedabad,North Indian,3.85,48,Low
+R00419,"Sathe, Sachdeva and Mahajan",Kochi,Mexican,4.41,41,Medium
+R00420,Vala Inc,Pune,North Indian,4.72,26,Medium
+R00421,Sani-Choudhry,Delhi,Biryani,4.53,57,Low
+R00422,Sur-Vyas,Kochi,Indian,3.35,53,Medium
+R00423,"Morar, Bath and Kannan",Chennai,Biryani,3.97,34,Medium
+R00424,Bhakta-Amble,Bangalore,Mexican,3.76,17,Medium
+R00425,Mitra and Sons,Bangalore,Indian,4.2,52,High
+R00426,Kumer LLC,Bangalore,Healthy,3.85,44,Medium
+R00427,Dar-Amble,Pune,Chinese,4.39,38,Low
+R00428,Sani-Gill,Mumbai,Desserts,3.77,21,High
+R00429,Rai PLC,Jaipur,Indian,3.58,45,Low
+R00430,"Karpe, Tella and Pandya",Jaipur,Healthy,4.65,18,High
+R00431,Ranganathan Ltd,Hyderabad,Mexican,3.98,35,High
+R00432,Sarin Inc,Pune,Fast Food,4.44,31,High
+R00433,Brahmbhatt-Munshi,Pune,Biryani,3.42,40,Medium
+R00434,"Sanghvi, Ravel and Sahni",Kochi,Healthy,3.52,58,Medium
+R00435,Contractor-Ravel,Kochi,North Indian,3.37,57,Medium
+R00436,Nair and Sons,Bangalore,Chinese,3.61,53,Medium
+R00437,"Sharma, Pathak and Chakrabarti",Jaipur,Mexican,3.66,39,Low
+R00438,Cherian-Kohli,Mumbai,Mexican,3.62,24,Low
+R00439,Rattan-Viswanathan,Pune,Indian,3.98,56,Medium
+R00440,Randhawa LLC,Kochi,Fast Food,3.5,42,Medium
+R00441,"Nori, Kant and Nath",Ahmedabad,Italian,3.62,12,Medium
+R00442,Bose PLC,Bangalore,Mexican,4.11,43,Medium
+R00443,"Comar, Wali and Uppal",Ahmedabad,Chinese,4.98,26,Medium
+R00444,Palla LLC,Pune,Healthy,4.24,53,Medium
+R00445,"Divan, Keer and Chauhan",Bangalore,Biryani,4.19,14,Low
+R00446,Kunda and Sons,Jaipur,Biryani,3.87,39,Medium
+R00447,Dua Ltd,Jaipur,Italian,3.01,52,Low
+R00448,Goel Ltd,Kochi,Fast Food,3.9,60,Medium
+R00449,Shetty-Sen,Ahmedabad,Indian,3.49,24,Low
+R00450,"Naidu, Mutti and Dora",Kolkata,Chinese,4.51,48,Medium
+R00451,Bir-Singh,Bangalore,Indian,4.79,17,Low
+R00452,Mitter-Maharaj,Bangalore,South Indian,3.55,51,Low
+R00453,"Bhalla, Pandey and Tripathi",Ahmedabad,Mexican,3.99,47,Medium
+R00454,Mukherjee Group,Kochi,Healthy,3.32,37,Low
+R00455,Barad-Bhandari,Ahmedabad,Indian,4.41,30,Medium
+R00456,Mangat-Bose,Bangalore,North Indian,4.62,56,High
+R00457,"Chana, Tripathi and Rajagopalan",Ahmedabad,Desserts,4.28,19,Medium
+R00458,Barman-Sengupta,Ahmedabad,Biryani,4.16,37,Medium
+R00459,"Guha, Nagy and Soni",Kochi,North Indian,3.98,30,Medium
+R00460,"Dora, Bhatia and Seshadri",Kochi,Mexican,4.25,58,Low
+R00461,Oza Ltd,Hyderabad,Mexican,3.86,37,Medium
+R00462,Thaman Ltd,Bangalore,Mexican,3.81,31,Low
+R00463,Baral and Sons,Hyderabad,Biryani,4.63,47,Low
+R00464,"Sarma, Sarna and Viswanathan",Ahmedabad,Fast Food,4.39,28,Low
+R00465,"Dutt, Patla and Pradhan",Ahmedabad,Mexican,3.71,47,Medium
+R00466,Ram-Rege,Kolkata,North Indian,4.9,55,Medium
+R00467,Ben-Natt,Chennai,Desserts,3.65,33,High
+R00468,Narayan Inc,Delhi,South Indian,4.97,37,Medium
+R00469,"Raju, Mander and Krishnan",Kochi,Mexican,3.35,54,Medium
+R00470,"Doctor, Nath and Bumb",Ahmedabad,Biryani,3.93,22,Medium
+R00471,"Dhaliwal, Palla and Mukherjee",Hyderabad,Fast Food,4.23,18,Medium
+R00472,"Ramanathan, Dayal and Chad",Pune,Mexican,4.17,18,Low
+R00473,Puri-Narasimhan,Chennai,Mexican,4.09,30,Low
+R00474,Vyas Inc,Ahmedabad,North Indian,4.64,33,Medium
+R00475,"Sampath, Trivedi and Pathak",Jaipur,South Indian,4.22,40,Medium
+R00476,Patil LLC,Bangalore,Indian,4.26,38,Medium
+R00477,Kala LLC,Mumbai,Desserts,3.7,49,Medium
+R00478,Handa-Kara,Pune,Biryani,4.41,19,Low
+R00479,Dubey Inc,Chennai,Healthy,3.78,13,Low
+R00480,Chaudhuri-Tripathi,Pune,Chinese,4.57,12,High
+R00481,"Vyas, Barad and Nayar",Kolkata,Biryani,4.72,22,Low
+R00482,"Deep, Puri and Dube",Pune,Fast Food,4.04,30,Low
+R00483,Golla Ltd,Kochi,South Indian,4.26,17,Medium
+R00484,"Gandhi, Sarma and Bassi",Kochi,Fast Food,4.14,18,Medium
+R00485,Patla-Khanna,Ahmedabad,Biryani,3.96,55,Medium
+R00486,Mane-Sen,Delhi,Mexican,3.89,10,Medium
+R00487,Walla and Sons,Hyderabad,Healthy,3.43,23,High
+R00488,Singh-Hari,Chennai,Italian,3.67,21,Low
+R00489,Sastry-Shenoy,Chennai,Chinese,4.05,45,Medium
+R00490,Raja-Thakkar,Chennai,Desserts,4.72,31,Medium
+R00491,"Sahota, Edwin and Iyengar",Kochi,Indian,4.17,45,Low
+R00492,"Devi, Krishna and Ben",Delhi,Healthy,4.57,54,Medium
+R00493,"Srivastava, Prabhu and Chauhan",Kochi,Chinese,3.13,25,Medium
+R00494,"Varty, Dash and Mane",Mumbai,South Indian,4.68,20,Medium
+R00495,Dyal LLC,Chennai,South Indian,4.33,12,High
+R00496,Varghese-Din,Delhi,Indian,4.52,43,Medium
+R00497,Chand-Kapadia,Kolkata,Fast Food,3.03,34,Medium
+R00498,Palla-Bala,Delhi,Mexican,3.8,35,Medium
+R00499,Bera-Randhawa,Ahmedabad,North Indian,3.48,12,Medium
+R00500,"Prakash, Keer and Raju",Pune,Healthy,4.36,29,Medium
