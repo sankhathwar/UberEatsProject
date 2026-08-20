@@ -1,0 +1,29 @@
+Feature,Importance
+num__delivery_distance_km,0.2642962208834666
+cat__traffic_condition_High,0.22592044724971083
+num__preparation_time_min,0.2233473872380032
+num__hour,0.053280539658514786
+cat__traffic_condition_Low,0.03966844956255347
+cat__traffic_condition_Medium,0.03616643416089037
+cat__weather_Clear,0.032216671932418346
+cat__weather_Cloudy,0.021406585747816474
+num__order_amount,0.015457729393088433
+cat__weather_Stormy,0.015209417766804895
+cat__weather_Rainy,0.015075707346742215
+num__restaurant_rating,0.014695168797204998
+num__avg_prep_time,0.012152669020487386
+num__day_of_week,0.007682773200581925
+num__item_count,0.005331567808394622
+cat__price_range_Medium,0.0016345245034921623
+cat__price_range_Low,0.0015658030752687107
+cat__cuisine_South Indian,0.0014772889855395551
+cat__cuisine_Mexican,0.001472934535381417
+cat__price_range_High,0.0014089767738940714
+cat__cuisine_Biryani,0.0014049882656667772
+cat__cuisine_Fast Food,0.0013677269141034085
+cat__cuisine_Italian,0.0013673062191775448
+cat__cuisine_Desserts,0.0013133792033061037
+cat__cuisine_Chinese,0.0012797757101666452
+cat__cuisine_Healthy,0.001270695458912699
+cat__cuisine_Indian,0.0012688537141710451
+cat__cuisine_North Indian,0.0012599768742413526
