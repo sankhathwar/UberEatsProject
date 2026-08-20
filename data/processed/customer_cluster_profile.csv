@@ -1,0 +1,4 @@
+cluster,customer_segment,total_orders,avg_order_value,total_spending,ordering_frequency,avg_rating_given,weekend_orders,late_night_orders
+0,Budget Occasional Customers,7.47,681.61,5137.09,1.19,3.53,2.38,1.22
+1,Premium Basket Customers,7.38,971.01,7128.37,1.19,3.31,2.26,1.17
+2,Frequent High-Value Customers,11.73,809.11,9490.45,1.42,3.41,4.43,2.48

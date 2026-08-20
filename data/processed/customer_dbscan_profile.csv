@@ -1,0 +1,3 @@
+dbscan_cluster,total_orders,avg_order_value,total_spending,ordering_frequency,avg_rating_given,weekend_orders,late_night_orders
+0,8.98,812.07,7284.91,1.27,3.42,3.08,1.65
+1,2.4,874.49,2100.24,1.0,1.0,1.0,0.8
