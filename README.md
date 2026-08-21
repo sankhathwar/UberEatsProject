@@ -1,6 +1,6 @@
 # Uber Eats Operational & Customer Intelligence System
 
-## Here is the [PPT link](https://docs.google.com/presentation/d/16Ch8WEG8i1SOm8z6V8Lit_euRYdOSoILEYXgx1LZ6lk/edit?usp=sharing)
+## Here is the [PPT link](https://docs.google.com/presentation/d/1uWlNEtUkWCaMR67JVZ8GQAS7Q3i6-2fWUwTrNO04Ycs/edit?usp=sharing)
 
 ## Project Overview
 
