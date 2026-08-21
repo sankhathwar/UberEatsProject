@@ -1,5 +1,7 @@
 # Uber Eats Operational & Customer Intelligence System
 
+## Here is the [PPT link](https://docs.google.com/presentation/d/16Ch8WEG8i1SOm8z6V8Lit_euRYdOSoILEYXgx1LZ6lk/edit?usp=sharing)
+
 ## Project Overview
 
 This project is an end-to-end Machine Learning and Analytics solution for a food-delivery marketplace.
