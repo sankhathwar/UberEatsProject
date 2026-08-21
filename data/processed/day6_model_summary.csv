@@ -1,0 +1,6 @@
+Component,Primary_Method,Primary_Output
+Customer Segmentation,K-Means,3 customer segments
+Restaurant Segmentation,Feature-based segmentation,Restaurant operational profiles
+Sentiment Analysis,TF-IDF + Naive Bayes,Customer sentiment classification
+Delivery Time Prediction,Random Forest,Delivery time prediction
+Demand Forecasting,Prophet,7-day hourly demand forecast

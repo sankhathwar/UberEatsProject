@@ -1,0 +1,16 @@
+Feature,Importance
+delivery_distance_km,0.264296
+traffic_condition_High,0.22592
+preparation_time_min,0.223347
+hour,0.053281
+traffic_condition_Low,0.039668
+traffic_condition_Medium,0.036166
+weather_Clear,0.032217
+weather_Cloudy,0.021407
+order_amount,0.015458
+weather_Stormy,0.015209
+weather_Rainy,0.015076
+restaurant_rating,0.014695
+avg_prep_time,0.012153
+day_of_week,0.007683
+item_count,0.005332
